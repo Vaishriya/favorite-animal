@@ -1,0 +1,26 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    text-align: left;
+}
+p,h4{
+    text-align: left;
+    font-size: 15px;
+    color:blue;
+}
+img{
+    float: left;
+}
+.link{
+    text-decoration: dashed;
+    color:yellowgreen;
+    font-size: larger;
+}
+#head{
+    background-color: magenta;
+    margin: 10px;
+}
